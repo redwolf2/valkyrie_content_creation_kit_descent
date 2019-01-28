@@ -1,6 +1,6 @@
 # Valkyrie Content Creation Kit
 
-A Content Creation Kit for Descend: Road To Legend dedicated to the Valkyrie Projekt.
+A Content Creation Kit for **Descend: Road To Legend** dedicated to the Valkyrie Projekt.
 
 It currently includes:
 
